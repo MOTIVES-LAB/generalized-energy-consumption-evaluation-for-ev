@@ -50,3 +50,7 @@ By downloading or using this software, you signify your agreement to these terms
 ## Contact Us
 Please contact us if you need further technical support or search for cooperation. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\
 Email contact: &nbsp; [MOTIVES Lab](mailto:motives.lab@gmail.com?subject=[GitHub]%20GECR), &nbsp; [Xinmei Yuan](mailto:yuan@jlu.edu.cn?subject=[GitHub]%20GECR).
+  
+<p align="center">
+  <img src="https://github.com/MOTIVES-LAB/generalized-energy-consumption-evaluation-for-ev/blob/main/figures/new_logo_trans.png" alt="drawing" width="200"/>
+</p>  

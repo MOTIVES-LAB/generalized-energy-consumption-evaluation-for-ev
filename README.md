@@ -37,6 +37,19 @@ Available at: [Patterns (Cell Press)](https://doi.org/10.1016/j.patter.2024.1009
 A Brief Introduction to Generalized Energy Consumption Rates  
 `\
 Available at: [Youtube](https://www.youtube.com/watch?v=vmJZik6mKlA&t=61s)  
+`
+可泛化能耗率介绍 
+`\
+Available at: [b站](https://www.bilibili.com/video/BV1um421V7Z8/?share_source=copy_web&vd_source=5c67b4335d1b513776dc2660713291aa)   
+- Online app:  
+`
+English version:  
+`
+[Github](https://motives-lab.github.io/GECR_web/)  
+`
+中文版:
+`
+http://47.92.126.206/
 
 
 ## License

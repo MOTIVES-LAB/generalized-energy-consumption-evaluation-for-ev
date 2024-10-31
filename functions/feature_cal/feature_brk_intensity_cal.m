@@ -3,6 +3,8 @@ function [I_brk,I_brk_hi,I_brk_lo,Loss_brk_hi,Loss_brk_lo] = feature_brk_intensi
 v = v/3.6;  % km/h  ----> m/s
 v_bar = (v(1:end-1)+v(2:end))/2;
 pow_bar = (pow(1:end-1)+pow(2:end))/2;
+spd_lv = spd_lv/3.6;
+
 if nargin==4
     I_brk = 0.5*sum(max(v(1:end-1).^2-v(2:end).^2,0))/(sum(v_bar)*ts);
     I_brk_hi = nan;

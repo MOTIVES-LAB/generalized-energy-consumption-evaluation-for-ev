@@ -51,6 +51,12 @@ English version:
 `
 http://47.92.126.206/
 
+## Erratum
+
+In the section "GECR model" under "EXPERIMENTAL PROCEDURES," of this paper , it is stated that "v_{th} is the threshold velocity for low- and high-speed driving, which is selected to be 15 km/h"
+However, in this code, this parameter was mistakenly used as 15 m/s (equivalent to 54 km/h). Consequently, all results presented in the paper are based on v_{th}=54km/h.
+This error does not affect the methods or conclusions of the study， and we have corrected this error.
+We apologize for any confusion this may have caused. Thank you for your understanding.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

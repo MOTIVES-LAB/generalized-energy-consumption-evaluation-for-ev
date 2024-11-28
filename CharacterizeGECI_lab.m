@@ -77,7 +77,15 @@ para_BEV_model = [  179.4 0.28 0.0235 1919;...
     
     % ----- trainging parameter ----- %
     err_const_spd = 1;      % km/h the extract const speed segment should meet this speed err requirement.
-    spd_lv = 15;            % km/h threshold for low- and high-speed braking 
+    spd_lv = 15*3.6;            % km/h threshold for low- and high-speed braking， *3.6 for obtaining the results consistent with our published paper
+                                % The method for selecting the optimal speed threshold is under investigation and is expected to be provided in our future work.
+
+
+
+
+
+
+
 
 
 
